@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+}
+body{
+    background-color:rgb(245, 242, 205);
+}
+ul{
+    font-weight: 100;
+    /* text-decoration: underline; */
+}
